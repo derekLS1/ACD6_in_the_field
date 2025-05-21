@@ -1,4 +1,4 @@
-#data values used in the heatmap, but samples here are not clusered.
+#data values used in the heatmap, but samples here are not clustered.
 #  pheatmap(DATA BELOW, color=inferno(length(mat_breaks) - 1),  border_color=NA, 
 #         breaks=mat_breaks, cluster_rows=TRUE, cluster_cols=TRUE, clustering_distance_cols=cluster_cols, labels_col=xlabel,
 #         labels_row=rownames(wild_field_Z), fontsize_col=7, clustering_distance_rows=cluster_rows,
