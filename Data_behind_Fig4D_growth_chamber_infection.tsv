@@ -1,3 +1,4 @@
+#plotted using ACD6_amplicon_DSL.r (/Users/dklu0001/Documents/SLU/Projects/ACD6/ACD6_data_and_code/)
 Sample	OTU	Genotype	Treatment	GenoTreatmentOTU	GenoTreatment	abundance_hamPCR	abundance_fourth_root
 S101	Zotu11	Est-1	Mix	Est-1_Mix_Zotu11	Est-1_Mix	0.00530973451	0.2699405955
 S101	Zotu7	Est-1	Mix	Est-1_Mix_Zotu7	Est-1_Mix	0.01202064897	0.3311173813
