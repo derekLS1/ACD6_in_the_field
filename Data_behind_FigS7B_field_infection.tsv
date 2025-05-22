@@ -1,4 +1,3 @@
-#made with script analzye_hiseq209_HIF.R (/Users/dklu0001/Documents/20220220_Germany/DOCUMENTS/abt6/Ezgi/)
 Sample	Genotype	well_number	HIF_background	LOAD_hamPCR
 R209L1S2	HIF:Col-0	2	HIF1	6.1644815
 R209L1S16	HIF:Est-1	16	HIF1	3.0841612
